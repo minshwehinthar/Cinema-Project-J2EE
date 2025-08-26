@@ -1,0 +1,12 @@
+<div class="bg-gray-50 p-2 px-4 border-b-1 border-gray-200 flex justify-between items-center">
+        <div>Logo</div>
+        <div class="flex items-center gap-5">
+        	<div class="text-end">
+        		<h1 class="text-md">Mg Kyaw Kyaw</h1>
+        		<p class="text-sm text-gray-400">kyawkyaw@gmail.com</p>
+        	</div>
+        	<div>
+        		<img class="w-12 h-12 rounded-full" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKEAAACUCAMAAADMOLmaAAAAYFBMVEXZ3OFwd3/c3+Rxd31yd3tydn/f4ufZ3eBweHtrcHTW2d5tdHyboKRweH3R1NltdXjLztO4vMFob3jCxcqvtLiorLCBh46LkZd6gIiRl5t8gYWipqtmcHODio3Fys18hYfsP669AAAEo0lEQVR4nO2bi46cIBRAxysyICg66jg+5///sjjddh5dXVAEm3CSZrPZNDkB74PX6eTxeDwej8fj8Xg8Ho/H4/EcAnAtsABAnGbZmGVpDAf0BJzmvL4FfU+DW83zFB9LEiDjiEmCCfkzRHw80kDC2FCKglcQpU1xFEXAXcLC8E0wkL+zhB9jqs9jewm+h7bjARRxTsSMYIAEyrFrwXOJ2JzgFDSodDyKuPqIkA9CRCuno4gL+hkin4YhdTnRUJAlvT+SDrNOfJ8NkidItLErQczn0sw7tHE0z1CoCQaBcDTPcb2UZ94MayfzDCVdDOMnIRFOsiK0SN2wdWCIi4uiYBAkSe/gSwTlr3BC1NYNIWs1BAPSZrYVoVRI1k9Caj9WuJYhoty2YNzqjaH90pctd13/ckntCkKhbWg53+BS29ByJ4s7bcMOn60acm1DfmzDKPKG/6HhmkixKbgm25SWDXNNw4TmdjO2bk0hxHoPm+oZhqS3XJdPcaKw3fAkim62e5u41uq+osj6ghS6XmuWWWd9FZBrjSERlkN5WkndtQztr6Q0V6Oh/dWorCqq+0oTveWK8uC8vPv6NoJhYrVr+EI2D6r7Nohabhu+yFrFLzFEbeZC8AQVDRMlRVq52sluhVLpY60jP5kT54+jXgUD+7nwr6LK9pKjDdgvZFL8KVoYdZEKXxWTcD4vyj8liVvBqdlGdHY/G8m/uT8Gh5jPno5Swg9xd2S6Q9CTF2SSTOSPnjZHuesAkFZDIiYehoIxJshQpQfxmwB8ysqqGYa2Je19qJuqzE7HuOTwBOSAxelv4sdvHo9nlvOEa4lFjmwIgJ8cLNn8ToVj2fH6OlHzKi+OkxSncpJXzb2X0ChiTP6jlPb9vanyAxQWwGlV3xImkom3vjBhNLzVboszQFbKsYuiaKb7iqKQ0rbMHEkCHvm9l93MoiFCom+b0cFkw6kYhPJ9G1EXlltZOX4NFUT5NgsRspu1uV6BuCNTs6o4hMGjrUVdbCuXw7R6UpV7giixtKqCM6dI80DqYYiE4LEFRxjby8ISeZ7p/1wsXC7G5UJ2+RmB9l7g40psMpQRs+t9B4gbnc3r76HNfh8jQLMihj9BtNmrCkJcsxUR8kkYylHcydDECD4c5SjuIsh7tV3rnw0R5TsoQscMCU4T3Zs/iMR6J40/QYw/uoAMaZ14/2gokOHt93hYU4qXYIPRgIZuVbOwiDB5kvZ45GEgFb5BLoU5RTnHpv0k7Gqs/EE1v92/BXPHfVlifIofJMTQkSk2Ve3+MezNPFyBUfWkW9uQUCNJEZoNHesyUWSiPkNx29HQxKEaKD6GWmUYUG7gSzTaMXwSos2LfFya6gq/N9x++oyHXcdQFpaNHyIUaJdy8sLGNT5UJhZPS7CNpU/9Td5qw40Lv2znEZSQTXUF8p1K8gvbXg9jrnWXdJ3hpqSNVZ7/bgS1mzKi2DNdfxnSDaECxa4F5Y/hhu4BSrF/LIeXDffCoNu7oExsuaoNjRXDLTthu1eUh2G9XjC+WjG8rg/m9GphkgM2rH4YAtndQj4M2H31shmyVvVwcRPr3wzYMrwtGv4Cnd5IDdS/PEQAAAAASUVORK5CYII="/>
+        	</div>
+        </div>
+       </div>
